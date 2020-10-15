@@ -1,0 +1,19 @@
+Database
+
+petugas
+- id
+- username
+- password
+- nama
+- posisi
+- foto
+
+registrasi
+- id
+- tanggal 
+- nomor surat, varchar (20)
+- nama 
+- pekerjaan
+- alamat (Rt/RW) 
+- isi surat pokok 
+- id_petugas 
