@@ -50,7 +50,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 
-$route['(:any)'] = 'berita/post/$1';
+
+
+
+
 
 $route['default_controller'] = 'berita';
 $route['404_override'] = '';
